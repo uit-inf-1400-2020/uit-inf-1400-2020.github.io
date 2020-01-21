@@ -1,4 +1,4 @@
-Lecture notes 2 - introduction to Python
+Lecture notes - OOP 1 - Introduction to Python
 =========================================
 
 Topics:
@@ -98,7 +98,7 @@ Other editors and IDEs:
 * And so on: [https://wiki.python.org/moin/PythonEditors](https://wiki.python.org/moin/PythonEditors)
 
 
-Note: try to avoid saving files with tab characters. It sometimes causes problems with other editors and source tools that use a different tab width than what your editor happened to be set up with. The de facto standard is multiples of 8, which is interpreted differently by different editors. Some editors confuse the tab character with the tab key, which is used by the programmer to tell the editor to indent code according to the language syntax. [More on the history of tab](https://en.wikipedia.org/wiki/Tab_key). 
+Note: try to avoid saving files with tab characters. It sometimes causes problems with other editors and source tools that use a different tab width than what your editor happened to be set up with. The de facto standard is multiples of 8, which is interpreted differently by different editors. Some editors use the tab key to to indent code according to the language syntax, and confusingly _also_ use the tab key to add the tab character. [More on the history of tab](https://en.wikipedia.org/wiki/Tab_key). 
 
 Many people also use [Jupyter Notebooks](http://jupyter.org/)
 
