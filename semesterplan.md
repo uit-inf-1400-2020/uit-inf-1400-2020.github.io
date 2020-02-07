@@ -31,6 +31,9 @@ Ingen gruppeøvinger 15.01 på grunn av seminar.
 Forelesninger
 -----------
 
+Pensum (hvor det står "OOP X") referer til kapitler i boka, ta gjerne
+en titt før forelesning!
+
 NB: det er ikke (foreløpig) planlagt forelesning på dager uten oppført
 tema, men det kan bli endringer slik at vi fyller dagene etter
 hvert. Sjekk listen før forelesningsdagene!
