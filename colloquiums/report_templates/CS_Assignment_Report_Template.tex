@@ -1,0 +1,122 @@
+
+\input{pre}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%          Fill in the title details                      %%%
+
+\def \courseCode {INF-2700}
+\def \course {Database Systems}
+\def \thetitle {Assignment 3 natural join}
+\def \theauthor {Steinar Brenna Hansen}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\pagestyle{fancy}
+\pagestyle{fancyplain} % options: empty , plain , fancy
+\renewcommand{\headrulewidth}{1pt} % customize the layout...
+\renewcommand{\footrulewidth}{0pt}
+\lhead{\fancyplain{}{\courseCode: \thetitle{}}}\chead{}\rhead{\fancyplain{}{\theauthor{}}}
+\cfoot{Page \thepage\ of {\hypersetup{linkcolor=black}\pageref{LastPage}}}
+
+\begin{document}
+	
+	%%% TITLE HEADER
+	
+	\begin{center}
+		\textsc{\Large \courseCode: \course}\\[0,5cm]
+		
+		\textsc{\Large \thetitle}\\[.75cm]
+		
+		\Large{\theauthor} \\[0.25cm]
+		
+		{\large \today}
+		
+	\end{center}	
+	
+
+\begin{flushleft}
+\setcounter{page}{1}
+\section[How to use this template]{How to use this template}
+This template is meant as a general guideline on how to write a report, and to give some tips about what you should and should not be writing. You may find yourself moving or cutting sections depending on the assignment or your own needs.
+
+
+\bigskip
+
+Also, it goes without saying, but make sure to clean up the template text before submitting your report. 
+
+\section{Introduction}
+This section should be brief. Describe the assignment and the requirements in your own words. Avoid listing the requirements directly.
+
+
+\bigskip
+
+While you should avoid speaking in first person when you write a report, it is acceptable to do so in the introduction, to a reasonable degree
+
+
+\bigskip
+
+Here are some examples on how to start your introduction:
+
+\begin{enumerate}
+\item This report describes the design and implementation of a list ADT using a linked list. It will go into detail about the design choices made, and discuss benefits and tradeoffs of those choices.
+\item Boids is a computer model created by Craig Reynolds that simulates the flocking behavior of birds [SOURCE]. In this report, I will present an implementation of the model using the Python programming language.
+\item SQL is a widely used querying language used to process queries into table-based databases. This text details the implementation of a simplified server that implements a subset of the SQL language built over sqlite.
+\end{enumerate}
+\section{Technical Background}
+This section is where you provide information on the technical aspects of your design. You can usually assume that the theory required to solve the assignment is know to the reader, but if you want to clarify terms or go into detail about specific points in the theory (if you are doing something slightly different, or a detail of it is of notable importance to your implementation), consider writing a few words about it here. 
+
+\section{Design }
+This is where you describe how you solved the assignment, at least on paper. Give a high-level view of your design. As a rule of thumb, if you are describing your code, you need to go to a higher abstraction level.
+
+
+\bigskip
+
+This section is also a good place to put illustrations to enhance the text. There are multiple tools out there to create good illustrations. draw.io is a strong tool that can be run in a browser. For more advanced users there are stronger, free tools such as Yed Graph Editor.
+
+
+\bigskip
+
+While illustrations are good at making your report clearer and look more polished, avoid using them to fill up space if you can convey the same information clearly using just text.
+
+
+\bigskip
+
+Examples of what the design section should cover:
+
+\begin{itemize}
+\item The interface of the list ADT supports six methods. These are create\_list(), destroy\_list(), add\_list(), remove\_list(), iterate\_list() and sort\_list(). When a list is created, it is provided with a comparator method that is used to handle sorting{\dots}
+\item The Boids simulation consists of a set of entities called Boids, Each boid moves independently according to a set of criteria, specified in three rules. Firstly, boids avoid crashing into obstacles, including other boids. Secondly, boids attempt to maintain the same speed and heading as nearby boids. Finally, all boids attempt to move closer to each other to form a cohesive flock.
+\item The server parses incoming data requests into an SQL query and runs them on its database. The result is then processed into JSON and returned to the client.
+\end{itemize}
+
+\bigskip
+
+Remember to avoid low-level details! An expert should in theory be able to implement your design in any programming language based on what you write in this section.
+
+\section{Implementation}
+This is where you go into detail about your specific implementation. Questions you should answer here are things such as ``How does your implementation match your design?'' and ``Are there any bugs, and do you have any ideas about what may be causing them?''. What sort of difficulties did you experience when working, and how did you overcome them? If you found a clever solution to the problem, this is also the place to write about that.
+
+\subsubsection{Technical Details}
+You may want to include a short section giving high-level details about your implementation, such as the programming language used and other information you find relevant for your report. In most cases however, this section is unnecessary, as the assignment usually decides those details for you. Even if you have the freedom of choice, consider whether this information is really relevant to the report, which should avoid low-level implementation details most of the time. \ 
+
+\section{Experiments and Results}
+A core pillar of computer science is testing. In this section, you should include your methodology for testing your implementation. How do you know your implementation meets the requirements? What sort of performance metrics have you chosen to benchmark your solution, and how did you go about performing tests to gather those metrics?
+
+\bigskip
+
+You should present the results of your tests here, either using an illustration and/or a table of results. These will be valuable in the discussion section.
+
+\bigskip
+
+If presenting data and benchmarks are not important to the assignment, you may likely find yourself cutting this section. If you decide to do so, make sure you at least mention your correctness criteria and testing methodology somewhere else.
+
+\section[Discussion]{Discussion}
+The discussion section is the most important section in a report, This is where you show that you understand the theory behind the solution, and also a chance to argue the pros and cons of your solution. You should discuss about the results of your measurements and why you think they are the way they are. Also bring up tradeoffs, and why you made the choices you did; show that you understand the alternatives, and why they may be a good idea (or not) for the particular problem the assignment asked you to solve.
+
+\section{Sources}
+Make sure to list your sources! We don't require a strict schema for sourcing, but remember to be consistent and correct with whatever method you choose.
+
+
+\bigskip
+\end{flushleft}
+\end{document}
