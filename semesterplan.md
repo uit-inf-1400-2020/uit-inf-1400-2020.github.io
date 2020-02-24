@@ -58,7 +58,7 @@ hvert. Sjekk listen før forelesningsdagene!
 | 9   | Ti 25.02 | Python Data Structures                  | [OOP 6](lectures/oop-06-python-data-structures)                                            |
 |     | Fr 28.02 | Python Patterns, Strings                | [OOP 7](lectures/oop-07-oop-shortcuts), [OOP 8](lectures/oop-08-strings-and-serialization) |
 | 10  | Ti 03.03 | Iterator Pattern                        | [OOP 9](lectures/oop-09-iterators)                                                         |
-|     | Fr 06.03 | Extra lecture on recursion              |                                                                                            |
+|     | Fr 06.03 |                                         |                                                                                            |
 | 11  | Ti 10.03 | Python Design Patterns I                | [OOP 10](lectures/oop-10-design-pat-1)                                                     |
 |     | Fr 13.03 | *O2 inn, O3 ut*                         |                                                                                            |
 | 12  | Ti 17.03 | Python Design Patterns II               | [OOP 11](lectures/oop-11-design-pat-2)                                                     |
