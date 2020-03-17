@@ -4,8 +4,10 @@ INF-1400 Objektorientert programmering - Våren 2020
 Korona og gjennomføring av kurset
 -------------------
 
-Kurset vil gå noenlunde som normalt, men forelesninger, gruppeundervisning og annen hjelp vil foregå online. Mer informasjon kommer etter hvert. 
-
+Kurset vil gå noenlunde som normalt, men forelesninger,
+gruppeundervisning og annen hjelp vil foregå online. Informasjon om
+tilpasninger ligger i [korona.md](korona.md). Mer informasjon kommer
+etter hvert.
 
 UiT har lagt ut informasjon med råd til studenter og ansatte samt linker til andre ressurssider her: 
 
