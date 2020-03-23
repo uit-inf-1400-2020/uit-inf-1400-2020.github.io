@@ -1,4 +1,4 @@
-Plan for semesteret, INF-1400 2019
+Plan for semesteret, INF-1400 2020
 ====================================
 
 Planen er tentativ og vil bli endret underveis. 
