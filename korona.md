@@ -39,11 +39,15 @@ kurset blir synlig på streaming-listen. Hvis det blir mye trolling
 kommer vi til å fokusere på diskusjonen på discord istedet for å følge
 desperat med på Twitch.
 
-Lenker til twitch-kanalene blir annonsert på Canvas og lagt ut i [forelesningsoversikten](semesterplan.md). 
+Lenker til twitch-kanalene blir annonsert på Canvas og lagt ut i
+[forelesningsoversikten](semesterplan.md).
 
-Etter forelesningen er over kommer vi til å forsøke å legge ut
-opptaket på mediasite slik at det er tilgjengelig sammen med de andre
-opptakene fra kurset. 
+Etter forelesningen er over kommer vi til å laste opp opptaket til
+mediasite.  Vi får ikke lagt det inn sammen med de automatiske
+opptakene, så når opptaket er ferdig legger vi ut en link i
+[semesterplan.md](semesterplan.md). Dette tar tid (mediasite brukte 36
+timer på prosessen første gang), i mellomtiden vil twitch-opptaket
+være tilgjengelig.
 
 
 Grupper

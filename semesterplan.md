@@ -94,3 +94,20 @@ rundt i løpet av semesteret.
 Forkortelser: 
 * OOP : Dusty Phillips. Python 3 Object Oriented Programming
 
+
+Opptak av forelesninger 
+-------------------------
+
+Mediasiste sliter med lasten for tiden. Det betyr at det kan ta noen
+dager før den har klart å prosessere ferdig et opptak. I mellomtiden
+er opptaket tilgjengelig på Twitch (opptil 14 dager etter
+forelesningen).
+
+Under vil dere finne linker til opptak av forelesningene på twitch og
+mediasite.
+
+
+| Dato          | Twitch                                           | Mediasite                                                                               |
+|---------------|--------------------------------------------------|-----------------------------------------------------------------------------------------|
+| Ti 2020-03-17 | [twitch](https://www.twitch.tv/videos/568998015) | [mediasite](https://mediasite.uit.no/Mediasite/Play/99913e6aa0a349bf93547a80bb38de5d1d) |
+
