@@ -63,7 +63,7 @@ hvert. Sjekk listen før forelesningsdagene!
 |     | Fr 13.03 | *O2 inn, O3 ut*                         |                                                                                            |                                                     |
 | 12  | Ti 17.03 | Python Design Patterns II               | [OOP 11](lectures/oop-11-design-pat-2)                                                     | [twitch-link](https://www.twitch.tv/edvardpedersen) |
 |     | Fr 20.03 |                                         |                                                                                            |                                                     |
-| 13  | Ti 24.03 | Testing Object-Oriented Programs        | [OOP 12](lectures/oop-12-testing)                                                          |                                                     |
+| 13  | Ti 24.03 | Testing Object-Oriented Programs        | [OOP 12](lectures/oop-12-testing)                                                          | [twitch-link](https://www.twitch.tv/edvardpedersen) |
 |     | Fr 27.03 | Event-driven programming                | [notes](lectures/lecture-event-driven-programming)                                         |                                                     |
 | 14  | Ti 31.03 |                                         |                                                                                            |                                                     |
 |     | Fr 03.04 | *O3 inn* (kan bli flyttet)              |                                                                                            |                                                     |
