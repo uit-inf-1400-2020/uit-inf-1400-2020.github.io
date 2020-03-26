@@ -64,7 +64,7 @@ hvert. Sjekk listen før forelesningsdagene!
 | 12  | Ti 17.03 | Python Design Patterns II               | [OOP 11](lectures/oop-11-design-pat-2)                                                     | [twitch-link](https://www.twitch.tv/edvardpedersen) |
 |     | Fr 20.03 |                                         |                                                                                            |                                                     |
 | 13  | Ti 24.03 | Testing Object-Oriented Programs        | [OOP 12](lectures/oop-12-testing)                                                          | [twitch-link](https://www.twitch.tv/edvardpedersen) |
-|     | Fr 27.03 | Event-driven programming                | [notes](lectures/lecture-event-driven-programming)                                         |                                                     |
+|     | Fr 27.03 | Event-driven programming                | [notes](lectures/lecture-event-driven-programming)                                         | [twitch-link](https://www.twitch.tv/mbdalen)        |
 | 14  | Ti 31.03 |                                         |                                                                                            |                                                     |
 |     | Fr 03.04 | *O3 inn* (kan bli flyttet)              |                                                                                            |                                                     |
 | 15  | Ti 07.04 | *Påske - ingen forelesning*             |                                                                                            |                                                     |
@@ -110,4 +110,4 @@ mediasite.
 | Dato          | Twitch                                           | Mediasite                                                                               |
 |---------------|--------------------------------------------------|-----------------------------------------------------------------------------------------|
 | Ti 2020-03-17 | [twitch](https://www.twitch.tv/videos/568998015) | [mediasite](https://mediasite.uit.no/Mediasite/Play/99913e6aa0a349bf93547a80bb38de5d1d) |
-
+| Ti 2020-03-24 |                                                  |                                                                                         |
