@@ -13,7 +13,7 @@ Obligatoriske oppgaver
 | 8   | 21.02 | Oblig 2 ut                    |
 | 11  | 12.03 | Oblig 2 inn                   |
 | 11  | 13.03 | Oblig 3 ut                    |
-| 14  | 02.04 | Oblig 3 inn (kan bli flyttet) |
+| 16  | 16.04 | Oblig 3 inn (kan bli flyttet) |
 
 Presentasjon og utlevering av obliger skjer på fredager i auditoriet.
 Vi bruker forelesningstidspunktet siden grupperommene er for små. 
@@ -66,10 +66,11 @@ hvert. Sjekk listen før forelesningsdagene!
 | 13  | Ti 24.03 | Testing Object-Oriented Programs        | [OOP 12](lectures/oop-12-testing)                                                          | [twitch-link](https://www.twitch.tv/edvardpedersen) |
 |     | Fr 27.03 | Event-driven programming                | [notes](lectures/lecture-event-driven-programming)                                         | [twitch-link](https://www.twitch.tv/mbdalen)        |
 | 14  | Ti 31.03 |                                         |                                                                                            |                                                     |
-|     | Fr 03.04 | *O3 inn* (kan bli flyttet)              |                                                                                            |                                                     |
+|     | Fr 03.04 |                                         |                                                                                            |                                                     |
 | 15  | Ti 07.04 | *Påske - ingen forelesning*             |                                                                                            |                                                     |
 |     | Fr 10.04 |                                         |                                                                                            |                                                     |
 | 16  | Ti 14.04 |                                         |                                                                                            |                                                     |
+|     | to 16.04 | *O3 inn* (kan bli flyttet)              |                                                                                            |                                                     |
 |     | Fr 17.04 |                                         |                                                                                            |                                                     |
 | 17  | Ti 21.04 |                                         |                                                                                            |                                                     |
 |     | Fr 24.04 | Class-based vs. classless OOP           | [ex: C++, JavaScript, Java, Self..](lectures/lecture-other-languages)                      |                                                     |
@@ -111,5 +112,5 @@ mediasite.
 |---------------|--------------------------------------------------|-----------------------------------------------------------------------------------------|
 | Ti 2020-03-17 | [twitch](https://www.twitch.tv/videos/568998015) | [mediasite](https://mediasite.uit.no/Mediasite/Play/99913e6aa0a349bf93547a80bb38de5d1d) |
 | Ti 2020-03-24 | [twitch](https://www.twitch.tv/videos/574245498) | [mediasite](https://mediasite.uit.no/Mediasite/Play/d6338a1806e84688b93c4d771649d2351d) |
-| Fr 2020-03-27 | [twitch](https://www.twitch.tv/videos/576521458) | mediasite - waiting for upload and coversion                                            |
+| Fr 2020-03-27 | [twitch](https://www.twitch.tv/videos/576521458) | [mediasite](https://mediasite.uit.no/Mediasite/Play/62b489745e8f4cbbb754e870dd9d24a31d) |
 
