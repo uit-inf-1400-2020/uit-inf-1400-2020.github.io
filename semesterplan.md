@@ -6,14 +6,14 @@ Planen er tentativ og vil bli endret underveis.
 Obligatoriske oppgaver
 -----------------
 
-| U#  | Dato  | Oblig                         |
-| --- | ----- | -----------------------       |
-| 4   | 24.01 | Oblig 1 ut                    |
-| 8   | 20.02 | Oblig 1 inn                   |
-| 8   | 21.02 | Oblig 2 ut                    |
-| 11  | 12.03 | Oblig 2 inn                   |
-| 11  | 13.03 | Oblig 3 ut                    |
-| 16  | 16.04 | Oblig 3 inn (kan bli flyttet) |
+| U#  | Dato  | Oblig                         | Opptak                                                                                                       |
+| --- | ----- | -----------------------       | -----                                                                                                        |
+| 4   | 24.01 | Oblig 1 ut                    | [mediasite](https://mediasite.uit.no/Mediasite/MyMediasite/presentations/e4ad374ae0284ca084faf93689e74ec61d) |
+| 8   | 20.02 | Oblig 1 inn                   |                                                                                                              |
+| 8   | 21.02 | Oblig 2 ut                    | [mediasite](https://mediasite.uit.no/Mediasite/MyMediasite/presentations/020040ae7d3f41c0bb93da8464cb4a4b1d) |
+| 11  | 12.03 | Oblig 2 inn                   |                                                                                                              |
+| 11  | 13.03 | Oblig 3 ut                    | [mediasite](https://mediasite.uit.no/Mediasite/MyMediasite/presentations/a045463e7b9942b7905b77f56c26d54f1d) |
+| 16  | 16.04 | Oblig 3 inn (kan bli flyttet) |                                                                                                              |
 
 Presentasjon og utlevering av obliger skjer på fredager i auditoriet.
 Vi bruker forelesningstidspunktet siden grupperommene er for små. 
@@ -108,9 +108,21 @@ Under vil dere finne linker til opptak av forelesningene på twitch og
 mediasite.
 
 
-| Dato          | Twitch                                           | Mediasite                                                                               |
-|---------------|--------------------------------------------------|-----------------------------------------------------------------------------------------|
-| Ti 2020-03-17 | [twitch](https://www.twitch.tv/videos/568998015) | [mediasite](https://mediasite.uit.no/Mediasite/Play/99913e6aa0a349bf93547a80bb38de5d1d) |
-| Ti 2020-03-24 | [twitch](https://www.twitch.tv/videos/574245498) | [mediasite](https://mediasite.uit.no/Mediasite/Play/d6338a1806e84688b93c4d771649d2351d) |
-| Fr 2020-03-27 | [twitch](https://www.twitch.tv/videos/576521458) | [mediasite](https://mediasite.uit.no/Mediasite/Play/62b489745e8f4cbbb754e870dd9d24a31d) |
+| Dato          | Twitch                                           | Mediasite                                                                                                                  |
+|---------------|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Ti 2020-01-14 |                                                  | [mediasite](https://mediasite.uit.no/Mediasite/MyMediasite/presentations/d5a90954c9444d2a862e80228efac70e1d)               |
+| Fr 2020-01-17 |                                                  | [mediaste (nb problemer)](https://mediasite.uit.no/Mediasite/MyMediasite/presentations/e3ca5a9b2f334865be02e5a904f32e981d) |
+|               |                                                  | [opptak fra 2019 pga lydproblemer i 2020](https://mediasite.uit.no/Mediasite/Play/f62cbb2e537c475cafde67dc2b1cd4d51d)      |
+| Ti 2020-01-21 |                                                  | [mediasite](https://mediasite.uit.no/Mediasite/MyMediasite/presentations/dc170258810c4c7c94d64d3fd1f3d6311d)               |
+| Ti 2020-01-28 |                                                  | [mediasite](https://mediasite.uit.no/Mediasite/MyMediasite/presentations/c58105888c564f24b17897ae334cdea11d)               |
+| Ti 2020-02-04 |                                                  | [mediasite](https://mediasite.uit.no/Mediasite/MyMediasite/presentations/5fa234c9e8cb4ae0a60885a3411fc21b1d)               |
+| Ti 2020-02-11 |                                                  | [mediasite](https://mediasite.uit.no/Mediasite/MyMediasite/presentations/82ed5d0476da4894ace0c7c06b319d9b1d)               |
+| Fr 2020-02-14 |                                                  | [mediasite](https://mediasite.uit.no/Mediasite/MyMediasite/presentations/b975ae1f8135441b8be04545d780e8381d)               |
+| Ti 2020-02-25 |                                                  | [mediasite](https://mediasite.uit.no/Mediasite/MyMediasite/presentations/3e7e9b08526a4bbaa18e7438a07d9bf61d)               |
+| Fr 2020-02-28 |                                                  | [mediasite](https://mediasite.uit.no/Mediasite/MyMediasite/presentations/1c16d2747df64f818f58642e5a6da4a01d)               |
+| Ti 2020-03-03 |                                                  | [mediasite](https://mediasite.uit.no/Mediasite/MyMediasite/presentations/63603ad2d2884e388116e40550480d691d)               |
+| Ti 2020-03-10 |                                                  | [mediasite](https://mediasite.uit.no/Mediasite/MyMediasite/presentations/1433d336993b4d30b2c4b0f3c09314ee1d)              |
+| Ti 2020-03-17 | [twitch](https://www.twitch.tv/videos/568998015) | [mediasite](https://mediasite.uit.no/Mediasite/Play/99913e6aa0a349bf93547a80bb38de5d1d)                                    |
+| Ti 2020-03-24 | [twitch](https://www.twitch.tv/videos/574245498) | [mediasite](https://mediasite.uit.no/Mediasite/Play/d6338a1806e84688b93c4d771649d2351d)                                    |
+| Fr 2020-03-27 | [twitch](https://www.twitch.tv/videos/576521458) | [mediasite](https://mediasite.uit.no/Mediasite/Play/62b489745e8f4cbbb754e870dd9d24a31d)                                    |
 
