@@ -72,8 +72,8 @@ hvert. Sjekk listen før forelesningsdagene!
 | 16  | Ti 14.04 |                                         |                                                                                            |                                                     |
 |     | to 16.04 | *O3 inn* (kan bli flyttet)              |                                                                                            |                                                     |
 |     | Fr 17.04 |                                         |                                                                                            |                                                     |
-| 17  | Ti 21.04 |                                         |                                                                                            |                                                     |
-|     | Fr 24.04 | Class-based vs. classless OOP           | [ex: C++, JavaScript, Java, Self..](lectures/lecture-other-languages)                      |                                                     |
+| 17  | Ti 21.04 | Class-based vs. classless OOP           | [ex: C++, JavaScript, Java, Self..](lectures/lecture-other-languages)                      |                                                     |
+|     | Fr 24.04 |                                         |                                                                                            |                                                     |
 | 18  | Ti 28.04 | Context managers, stop writing classes. | [notes](lectures/lecture-context-mgr-stop-writing-cl)                                      |                                                     |
 |     | Fr 01.05 |                                         |                                                                                            |                                                     |
 | 19  | Ti 05.05 | Summary, exam prep                      |                                                                                            |                                                     |
