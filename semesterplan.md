@@ -72,14 +72,14 @@ hvert. Sjekk listen før forelesningsdagene!
 | 16  | Ti 14.04 |                                         |                                                                                            |                                                     |
 |     | to 16.04 | *O3 inn* (kan bli flyttet)              |                                                                                            |                                                     |
 |     | Fr 17.04 |                                         |                                                                                            |                                                     |
-| 17  | Ti 21.04 | Class-based vs. classless OOP           | [ex: C++, JavaScript, Java, Self..](lectures/lecture-other-languages)                      |                                                     |
+| 17  | Ti 21.04 | Class-based vs. classless OOP           | [ex: C++, JavaScript, Java, Self..](lectures/lecture-other-languages)                      | [twitch-link](https://www.twitch.tv/mbdalen)        |
 |     | Fr 24.04 |                                         |                                                                                            |                                                     |
-| 18  | Ti 28.04 | Context managers, stop writing classes. | [notes](lectures/lecture-context-mgr-stop-writing-cl)                                      |                                                     |
-|     | Fr 01.05 |                                         |                                                                                            |                                                     |
+| 18  | Ti 28.04 | Context managers, stop writing classes. | [notes](lectures/lecture-context-mgr-stop-writing-cl)                                      | [twitch-link](https://www.twitch.tv/edvardpedersen) |
+|     | Fr 01.05 | *1. mai, ikke forelesning*              |                                                                                            |                                                     |
 | 19  | Ti 05.05 | Summary, exam prep                      |                                                                                            |                                                     |
 |     | Fr 08.05 |                                         |                                                                                            |                                                     |
 | 20  | Ti 12.05 |                                         |                                                                                            |                                                     |
-|     | Fr 15.05 | *17. mai*                               |                                                                                            |                                                     |
+|     | Fr 15.05 |                                         |                                                                                            |                                                     |
 | 21  | Ti 19.05 |                                         |                                                                                            |                                                     |
 |     | Fr 22.05 | Eksamen                                 | NB: denne *kan* bli flyttet uten at det blir oppdatert her                                 |                                                     |
 
