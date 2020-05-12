@@ -76,9 +76,9 @@ hvert. Sjekk listen før forelesningsdagene!
 |     | Fr 24.04 |                                         |                                                                                            |                                                     |
 | 18  | Ti 28.04 | Context managers, stop writing classes. | [notes](lectures/lecture-context-mgr-stop-writing-cl)                                      | [twitch-link](https://www.twitch.tv/edvardpedersen) |
 |     | Fr 01.05 | *1. mai, ikke forelesning*              |                                                                                            |                                                     |
-| 19  | Ti 05.05 | Summary, exam prep                      |                                                                                            |                                                     |
+| 19  | Ti 05.05 |                                         |                                                                                            |                                                     |
 |     | Fr 08.05 |                                         |                                                                                            |                                                     |
-| 20  | Ti 12.05 |                                         |                                                                                            |                                                     |
+| 20  | Ti 12.05 | Summary, exam prep                      |                                                                                            | [twitch-link](https://www.twitch.tv/edvardpedersen) |
 |     | Fr 15.05 |                                         |                                                                                            |                                                     |
 | 21  | Ti 19.05 |                                         |                                                                                            |                                                     |
 |     | Fr 22.05 | Eksamen                                 | NB: denne *kan* bli flyttet uten at det blir oppdatert her                                 |                                                     |
