@@ -79,7 +79,7 @@ hvert. Sjekk listen før forelesningsdagene!
 | 19  | Ti 05.05 |                                         |                                                                                            |                                                     |
 |     | Fr 08.05 |                                         |                                                                                            |                                                     |
 | 20  | Ti 12.05 | Summary, exam prep                      |                                                                                            | [twitch-link](https://www.twitch.tv/edvardpedersen) |
-|     | Fr 15.05 |                                         |                                                                                            |                                                     |
+|     | Fr 15.05 | Practice exam presentation              | [twitch-link](https://www.twitch.tv/edvardpedersen)                                                                                           |                                                     |
 | 21  | Ti 19.05 |                                         |                                                                                            |                                                     |
 |     | Fr 22.05 | Eksamen                                 | NB: denne *kan* bli flyttet uten at det blir oppdatert her                                 |                                                     |
 
