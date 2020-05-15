@@ -128,5 +128,5 @@ mediasite.
 | Ti 2020-04-21 | [twitch](https://www.twitch.tv/videos/598298142) | [mediasite](https://mediasite.uit.no/Mediasite/Play/65d7737be5c04a789bb270e4c41621531d)                                    |
 | Ti 2020-04-28 | [twitch](https://www.twitch.tv/videos/605046410) | [mediasite](https://mediasite.uit.no/Mediasite/Play/ec70649b24f34fa78258c5f1b785101c1d)                                    |
 | Ti 2020-05-12 | [twitch](https://www.twitch.tv/videos/618664617) | [mediasite](https://mediasite.uit.no/Mediasite/Play/79523ec1fe644e129366b5eac3b1fd7b1d)                                   |
-| Fr 2020-05-15 | [twitch](https://www.twitch.tv/videos/621555321) |                                    |
+| Fr 2020-05-15 | [twitch](https://www.twitch.tv/videos/621555321) | [mediasite](https://mediasite.uit.no/Mediasite/Play/d0b381d72fb349d885089a3aadcce5961d)                                   |
 
