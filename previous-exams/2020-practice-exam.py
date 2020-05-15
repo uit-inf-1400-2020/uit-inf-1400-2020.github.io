@@ -6,6 +6,8 @@ Oppgavene under leder deg på veien og gir deg mulighet til å demonstrere deler
 
 NB: på en eksamen er det viktig at du svarer på alt! Les spørsmålene nøye og sjekk dem på nytt etter at du har svart for å se at du har fått med deg alt.
 
+Vi har en prototype på en applikasjon som skal simulere slitasje på en vei, delt inn i flere veistrekninger, og gi beskjed om når deler av veien trenger
+vedlikehold. Prototypen har kommet et stykke på vei, men vi må forbedre designet og koden for å utvide den videre.
 
 Oppgave 1:
     Lag et klassediagram for de klassene du tenker er naturlige å ta med, inkludert relasjoner mellom klassene. Løsningen skal demonstrere arv og polymorfi.
